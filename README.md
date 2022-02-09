@@ -1,10 +1,10 @@
 # javascript-art
-Exploring art using JavaScript and Canvas Sketch
+Exploring generative art using JavaScript and the canvas-sketch framework
 
 # Documentation
 
-## https://github.com/mattdesl/canvas-sketch
-## https://github.com/mattdesl/canvas-sketch-util
+#### https://github.com/mattdesl/canvas-sketch
+#### https://github.com/mattdesl/canvas-sketch-util
 
 # Commands
 canvas-sketch sketch.js --new --open 
